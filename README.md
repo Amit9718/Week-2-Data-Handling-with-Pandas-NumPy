@@ -2,13 +2,17 @@
 
 ## Overview
 
-This is Week 1 of my Data Science learning journey. The goal is to get comfortable with Python fundamentals and set up the working environment using Google Colab.
+Week 1 of my Data Science learning journey. Goal is to get comfortable with Python fundamentals and set up the working environment using Google Colab.
+
+## Task
+
+Learn Python basics & set up the environment
 
 ## Tools & Environment
 
 - Platform: Google Colab
 - Language: Python 3
-- No local installation required
+- Tools: Jupyter Notebook, Google Colab, Anaconda
 
 ## Topics Covered
 
@@ -54,4 +58,5 @@ name: Alice | age: 25 | grade: A
 ## Progress
 
 - [x] Week 1 — Python Basics & Environment Setup
-- [ ] Week 2 — Coming soon...
+- [x] Week 2 — Data Handling with Pandas & NumPy
+- [ ] Week 3 — Coming soon...
